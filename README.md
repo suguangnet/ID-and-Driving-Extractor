@@ -17,7 +17,7 @@
 ├── PPOCR_api.py              # PaddleOCR 接口封装
 ├── 身份证和行驶证内容识别提取.py # 主程序入口
 ├── PaddleOCR-json/           # PaddleOCR-json 程序目录
-├── dist/                     # 编译好的程序
+├── dist/                     # 编译好的程序，使用时和PaddleOCR-json 放在同目录
 ```
 
 ## 环境依赖
@@ -72,3 +72,8 @@ python 身份证和行驶证内容识别提取.py
 
 ## 联系方式
 速光网络软件开发 15120086569（vx同步）
+
+##识别截图
+![QQ截图20250113160357](https://github.com/user-attachments/assets/ae6b2a8a-cf7b-42b2-ae19-7ebbc2f0b0d4)
+![QQ截图20250113160457](https://github.com/user-attachments/assets/31c0507c-270c-4d5f-a096-61e25fe5979d)
+
