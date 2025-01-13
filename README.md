@@ -1,4 +1,4 @@
-# 身份证和行驶证内容识别提取
+![QQ截图20250113160457](https://github.com/user-attachments/assets/a8f62097-3a75-408e-9e5c-268798be1130)# 身份证和行驶证内容识别提取
 
 ## 项目简介
 这是一个基于 `PaddleOCR` 的身份证和行驶证内容识别提取工具。通过调用 OCR 技术，对图片中的文字内容进行解析，支持提取身份证和行驶证中的关键字段，如姓名、身份证号、性别、民族、出生日期、住址等信息。
@@ -71,9 +71,10 @@ python 身份证和行驶证内容识别提取.py
 本项目基于 [MIT License](LICENSE)。
 
 ## 联系方式
-速光网络软件开发 15120086569（vx同步）
+速光网络软件开发 [suguang.cc](http://suguang.cc)  15120086569（vx同步）
 
 ##识别截图
+
 ![QQ截图20250113160357](https://github.com/user-attachments/assets/ae6b2a8a-cf7b-42b2-ae19-7ebbc2f0b0d4)
 ![QQ截图20250113160457](https://github.com/user-attachments/assets/31c0507c-270c-4d5f-a096-61e25fe5979d)
 
