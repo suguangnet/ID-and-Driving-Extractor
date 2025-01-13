@@ -17,6 +17,7 @@
 ├── PPOCR_api.py              # PaddleOCR 接口封装
 ├── 身份证和行驶证内容识别提取.py # 主程序入口
 ├── PaddleOCR-json/           # PaddleOCR-json 程序目录
+├── dist/                     # 编译好的程序
 ```
 
 ## 环境依赖
@@ -39,14 +40,14 @@ cd ID-and-Driving-Extractor
 ```
 
 ### 2. 安装依赖
-确保已安装 Python 3.10.7 及以上版本。安装所需依赖：
+确保已安装 Python 3.10.7 及其它版本。安装所需依赖：
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 3. 配置 PaddleOCR-json
 - 下载并解压 [PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)。
-- 将解压后的文件夹放在项目根目录。
+- 本项目已包含。
 
 ### 4. 运行程序
 ```bash
@@ -55,8 +56,8 @@ python 身份证和行驶证内容识别提取.py
 
 ## 使用说明
 1. 将身份证或行驶证的图片保存在本地。
-2. 运行程序，根据提示输入图片路径。
-3. 程序将自动识别图片中的内容，并输出解析结果。
+2. 运行程序，根据提示上传图片。
+3. 程序将自动识别图片中的内容，并输出识结果。
 
 ## 贡献
 欢迎提交代码贡献或报告问题。你可以通过以下步骤贡献代码：
@@ -70,4 +71,4 @@ python 身份证和行驶证内容识别提取.py
 本项目基于 [MIT License](LICENSE)。
 
 ## 联系方式
-速光网络软件开发 15120086569(vx同步)
+速光网络软件开发 15120086569（vx同步）
