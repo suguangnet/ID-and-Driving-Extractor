@@ -1,0 +1,2 @@
+#ttkbootstrap==1.12.2 未使用 按钮圆角弧度
+Pillow==9.1.1

@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import filedialog, messagebox, scrolledtext
 from recognizer import extract_id_card_info, extract_name_from_id_card, extract_birthdate_from_id_card, extract_id_from_id_card, extract_address_from_id_card
 from driving import extract_driving_license_info, format_driving_license_info # 导入行驶证识别模块
-#按钮边角弧度
+#按钮边角弧度 未使用
 import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
 
